@@ -24,14 +24,15 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[Another World](https://medium.com/@vandana1anand/35590de784dd)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobertScalfani/HCIDesignPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobertScalfani/HCIDesignPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file
+
+[Another World](https://medium.com/@vandana1anand/35590de784dd)
 
 ### Support or Contact
 
