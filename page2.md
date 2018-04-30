@@ -19,6 +19,6 @@ Once I brought this aspect of me to design during this class, I began creating t
 # Research on people, not Google.
 Towards the beginning, it was always easy to just follow guidelines set on Google rather than real life users. But I’ve since learned that every project you design is too specific to have an answer online, it’s going to need a person to test it. Because if your design is common enough to be on Google, then it’s not worth doing.
 
-# Create a chain-of-events
+# Create a chain-of-events.
 One technique I found useful was to create a chain of events of what I thought a user would interact with the project. Comparing this chain of events with what the user actually did was always illuminating as it showed me how differently my design was being interpreted than how I meant it to be interpreted
 
