@@ -28,9 +28,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 
-[![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)             |  [![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)
+[![alt text](Tension.png "Design for Tension")](https://medium.com/@mariana0pachon/al-the-bot-support-for-current-prison-inmates-4c8ddbcd0666)  |  [![alt text](Understanding.png "Design for Understanding")](https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e)
 :-------------------------:|:-------------------------:
-[![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)  |  [![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)
+[![alt text](AnotherWorld.png "Design for Another World")](https://medium.com/@vandana1anand/35590de784dd)  |  [![alt text](AnotherWorld.png "Design for Another World")](https://medium.com/@vandana1anand/35590de784dd)
 
 
 [Another World](https://medium.com/@vandana1anand/35590de784dd)![Image](https://image.freepik.com/free-photo/cute-cat-picture_1122-449.jpg)
