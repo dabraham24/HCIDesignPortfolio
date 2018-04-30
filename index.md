@@ -27,9 +27,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 
-[![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)
 
-Solarized dark             |  Solarized Ocean
+[![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)             |  [![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)
 :-------------------------:|:-------------------------:
 [![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)  |  [![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)
 
