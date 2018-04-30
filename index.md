@@ -30,9 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobertScalfani/HCIDesignPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file
 
-[![alt text](image "Cat")](AnotherWorld.png)
-  eg:
-[![alt text](https://www.gravatar.com/avatar/… "Another World")](https://medium.com/@vandana1anand/35590de784dd)
+[![alt text](AnotherWorld.png "Another World")](https://medium.com/@vandana1anand/35590de784dd)
 
 
 [Another World](https://medium.com/@vandana1anand/35590de784dd)![Image](https://image.freepik.com/free-photo/cute-cat-picture_1122-449.jpg)
