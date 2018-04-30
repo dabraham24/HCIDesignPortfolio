@@ -10,7 +10,7 @@ It has been fascinating watching people interact with the UI's that I've created
 I've learned a ton about HCI from both this class as well as Software Engineering, and I've been applying what I learned from both to the other.
 
 
-[_Reflection_](HCIDesignPortfolio/page2.md)
+[_Reflection_](page2.md)
 
 [![alt text](Tension.png "design for tension")](https://medium.com/@mariana0pachon/al-the-bot-support-for-current-prison-inmates-4c8ddbcd0666)  [_design for tension_](https://medium.com/@mariana0pachon/al-the-bot-support-for-current-prison-inmates-4c8ddbcd0666)|  [![alt text](Understanding.png "design for understanding")](https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e) [_design for understanding_](https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e)
 :-------------------------:|:-------------------------:
