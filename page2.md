@@ -30,6 +30,7 @@ Prior to this course, it was always easy for me to just google design ideas and 
 An example of this from this term was my habit of getting inspiration from online in both HCI and Software Engineering. This resulted in bland, boring, unoriginal designs that hindered the final product.
 
 ## Create a chain-of-events.
-A technique that I found incredibly useful in both creating and eveluating my designs was the create a chain-of-events of sorts. First of all, this allowed me to develop a concrete idea of _exactly_ how I wanted the application to work and be used, providing a plan from which to design from. During the user testing stage, this chain-of-events came in useful again because comparing what I thought and intended the user would do to what they actually did was always iluminating, it showed how people were _actually_ intrepreting my design, allowing me to see exactly where my plans either went wrong or needed to be rethought.
-<img src="flow.png" width="500" />
+A technique that I found incredibly useful in both creating and eveluating my designs was the create a chain-of-events of sorts. First of all, this allowed me to develop a concrete idea of _exactly_ how I wanted the application to work and be used, providing a plan from which to design from. During the user testing stage, this chain-of-events came in useful again because comparing what I thought and intended the user would do to what they actually did was always iluminating, it showed how people were _actually_ intrepreting my design, allowing me to see exactly where my plans either went wrong or needed to be rethought.  
+
+<img src="flow.png" width="500" />  
 _I like to use lucidchart (above) for not only brainstorming, but also to generate a chain-of-events._
