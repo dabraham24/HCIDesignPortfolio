@@ -20,6 +20,7 @@ I cam to understand this term that empathy just as important a trait in HCI as i
 
 ## Simpler is better.
 Most of my HCI projects were relatively simple, but it's their simplicity that taught me its merits. For instance, in Software Engineering, our UI started off rather clunky and complicated, but by the end we had the winning application which featured a simplistic design that did not compromise any functionality or usability. Our design in Design for Others featured an overly complex UI for a mobile device, one that had lots of buttons and links as you scrolled through the webapge (can you tell that that's the project I leanred the most from my mistakes on?) and was just overall not enjoyable to use or look at. I applied what I learned from these mistakes to my later projects, and the results are most visible in my Software Engineering application, where we made things simple, large, and easy to understand.
+<img src="welcome.png" width="400" /> <img src="req.png" width="400" /> <img src="gift.png" width="400" />
 
 ## Research on people, not Google.
 Prior to this course, it was always easy for me to just google design ideas and stragegies as opposed to designing _for_ a user. But I've since learned that every project you work on is far too specific to just have a cookie-cutter answer from onine, and you truly need  a real person to survey and test with. And either way, if your design is simple enough to have an wasy answer online, it's too generic to be worth doing.
