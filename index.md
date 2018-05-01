@@ -7,9 +7,9 @@ I've learned a ton about HCI from both this class as well as Software Engineerin
 Click [_here_](page2.md) to view my Reflection on the term as a whole and see my Design Manifesto.
 
 
-|  <a href="https://medium.com/@mariana0pachon/al-the-bot-support-for-current-prison-inmates-4c8ddbcd066"><img src="Tension.png" width="300" align="middle"/> Design for Tension  |  <a href="https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e"><img src="Understanding.png" width="300" align="middle"/> Design for Understanding
+|  <a href="https://medium.com/@mariana0pachon/al-the-bot-support-for-current-prison-inmates-4c8ddbcd066"><img src="Tension.png" width="400" align="middle"/> Design for Tension  |  <a href="https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e"><img src="Understanding.png" width="400" align="middle"/> Design for Understanding
 :----------------------------:|:----------------------------:
-  <a href="https://medium.com/@vandana1anand/35590de784dd"><img src="AnotherWorld.png" width="300" align="middle"/> Design for Another World   |  <a href="https://medium.com/@vandana1anand/35590de784dd"><img src="AnotherWorld.png" width="300" align="middle"/> Design for Another World  |
+  <a href="https://medium.com/@robis345/design-for-wellbeing-group-13-d9217bad94be"><img src="act.png" width="400" align="middle"/> Design for Wellbeing   |  <a href="https://medium.com/@vandana1anand/35590de784dd"><img src="AnotherWorld.png" width="400" align="middle"/> Design for Another World  |
     
   
 Check out my [Design Manifesto](index.md).
