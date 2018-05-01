@@ -9,8 +9,8 @@ Below are 5 key points that came to define my design process this term. Click he
 Starting at the beginning of the term, I ignored the design process that was recomended. I simply just rushed ahead and did the projects without any brainstorming, user testing, or prepararion. And although I didn't know it, it showed.
 I actually didn't come to realise it in HCI, but in Software Engineering when during our presentation I realised how cluttered and difficult to use our UI was. What it took was some distance to understand that taking your time and actually following a fleshed out design will force you to take your time and truly think about what you're doing before you implement it.
 A key example in HCI was in the Design for Others project in which we decided that the given website was already good enough so we just resized it into a mobile format instead of brainstorming a new UI that would actually be better and designed from the ground up for mobile. The lesson that I learned there I will carry over for the rest of my career as a Computer Scientist and already have, as seviddneced by my new stragtegy with the later HCI projects.
-![Image](AnotherWorld.png = 100x20)
-<img src="AnotherWorld.png" alt="Image" style="width: 200px;"/>
+
+<img src="AnotherWorld.png" alt="Image" style="width: 20;"/>
 
 ## Simpler is better.
 Most of my HCI projects were relatively simple, but it's their simplicity that taught me its merits. For instance, in Software Engineering, our UI started off rather clunky and complicated. 
