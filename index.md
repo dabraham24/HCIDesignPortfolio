@@ -7,6 +7,6 @@ I've learned a ton about HCI from both this class as well as Software Engineerin
 Click [_here_](page2.md) to view my Reflection on the term as a whole and see my Design Manifesto.
 
 
-<a href="https://www.w3schools.com"><img src="tensionchart.png" width="500" align="middle"/> Bruh |  [![alt text](Understanding.png "design for understanding")](https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e) [_design for understanding_](https://medium.com/design-for-understanding/design-for-understanding-clear-communication-versus-persuasion-e634f93a998e)
+<a href="https://www.w3schools.com"><img src="tension.png" width="500" align="middle"/> Design for Tension |  <a href="https://medium.com/@mariana0pachon/al-the-bot-support-for-current-prison-inmates-4c8ddbcd0666"><img src="chart.png" width="500" align="middle"/> Design for Understanding
 :-------------------------:|:-------------------------:
 [![alt text](AnotherWorld.png "design for another world")](https://medium.com/@vandana1anand/35590de784dd) [_design for another world_](https://medium.com/@vandana1anand/35590de784dd) |  [![alt text](AnotherWorld.png "design for another world")](https://medium.com/@vandana1anand/35590de784dd) [_design for another world_](https://medium.com/@vandana1anand/35590de784dd)
