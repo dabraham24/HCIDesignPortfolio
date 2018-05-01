@@ -12,6 +12,7 @@ Starting at the beginning of the term, I ignored the design process that was rec
 I didn’t come to realize it in HCI, but in Software Engineering when during our presentation I realized how cluttered and difficult to use our UI was. What it took was some distance to understand that taking your time and following a fleshed-out design will force you to take your time and truly think about what you're doing before you implement it.  
 A key example in HCI was in the Design for Others project in which we decided that the given website was already good enough, so we just resized it into a mobile format instead of brainstorming a new UI that would be better and designed from the ground up for mobile. The lesson that I learned there I will carry over for the rest of my career as a Computer Scientist and already have, as evidenced by my new strategy with the later HCI projects.  
 
+<a href="https://www.w3schools.com">
 <img src="tensionchart.png" width="500" align="middle"/>  
 _As you can see here, by Design for Tension I had begun fleshing out Brainstorms in a way that I never had before._
 
