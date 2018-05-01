@@ -45,4 +45,6 @@ This term changed the way I approach the design of any project.
 I think, of the five points I've listed here, they all end up stemming from the same principle: **Don't Rush.**  
 My worst habit is rushing through things, both schoolwork, actual work, and in life. And I've learned from working on HCI that there are strategies you can implement that will still allow you to complete things quickly and be much more organized about it. Because when you rush, you forget about all of the important parts of the process, the parts of the process that make a desgin great.  
 Once I got into a habit of following a strategy pattern, my quality of work increased exponentially, both in HCI and in Software Engineering. Had I not learned this lesson, my team's project in Software Engineering would not have turned out nearly as simple and easy to use.  
-The principles that I've developed are ones that I won't forget. They're ones that allow me to create a fleshed out design before I even begin coding so that when I do code, my plan is laid out and I can quickly produce a quality project.
+The principles that I've developed are ones that I won't forget. They're ones that allow me to create a fleshed out design before I even begin coding so that when I do code, my plan is laid out and I can quickly produce a quality project.  
+
+Return to my [portfolio](index.md).
