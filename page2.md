@@ -32,7 +32,7 @@ _A few of the UIs I designed for the Welcome Screen, Request Screen, and Gift Sh
 PPrior to this course, it was always easy for me to just google design ideas and strategies as opposed to designing _for_ a user. But I've since learned that every project you work on is far too specific to just have a cookie-cutter answer from online, and you truly need  a real person to survey and test with. And either way, if your design is simple enough to have the answer online, it's too generic to be worth doing.  
 An example of this from this term was my habit of getting inspiration from online in both HCI and Software Engineering. This resulted in bland, boring, unoriginal designs that hindered the final product.  
 
-_Our Demo Days were the best weay to obtain this valuable feeback from our users._
+_Our Demo Days were the best way to obtain this valuable feeback from our users._
 
 
 ## Create a chain-of-events.
