@@ -17,12 +17,10 @@ Most of my HCI projects were relatively simple, but it's their simplicity that t
 I've always been someone who immediatly empathizes with people whenever they talk about their struggles, I easily put myself in their shoes and geniunly try to understand them.
 I cam to understand this term that empathy just as important a trait in HCI as in society. In my later projects, I began working on topics that appealed to my sense of empathy (in Design for Tension we created a chatbot for prisoners who will have a tough time once realeased into society and in Design for Another World we created a simulation meant to calm and relax patients) In these projects, it became really important to put myself in the shoes of the users, to try and really understand how they were feeling and what they needed from the aaplicaton.
 
-I’m someone who is always sympathetic. When I hear about someone’s struggles I easily put myself in their shoes and feel truly sorry for their pain.
-Once I brought this aspect of me to design during this class, I began creating things that required Empathy to truly understand (Prisoner, Terminally Ill Patients)
-
 ## Research on people, not Google.
-Towards the beginning, it was always easy to just follow guidelines set on Google rather than real life users. But I’ve since learned that every project you design is too specific to have an answer online, it’s going to need a person to test it. Because if your design is common enough to be on Google, then it’s not worth doing.
+Prior to this course, it was always easy for me to just google design ideas and stragegies as opposed to designing _for_ a user. But I've since learned that every project you work on is far too specific to just have a cookie-cutter answer from onine, and you truly need  a real person to survey and test with. And either way, if your design is simple enough to have an wasy answer online, it's too generic to be worth doing.
+An example of this from this term was my habit of getting inspiration from online in both HCI and Software Engineering. This resulted in bland, boring, unoriginal designs that hindered the final product.
 
 ## Create a chain-of-events.
-One technique I found useful was to create a chain of events of what I thought a user would interact with the project. Comparing this chain of events with what the user actually did was always illuminating as it showed me how differently my design was being interpreted than how I meant it to be interpreted
+A technique that I found incredibly useful in both creating and eveluating my designs was the create a chain-of-events of sorts. First of all, this allowed me to develop a concrete idea of _exactly_ how I wanted the application to work and be used, providing a plan from which to design from. During the user testing stage, this chain-of-events came in useful again because comparing what I thought and intended the user would do to what they actually did was always iluminating, it showed how people were _actually_ intrepreting my design, allowing me to see exactly where my plans either went wrong or needed to be rethought.
 
