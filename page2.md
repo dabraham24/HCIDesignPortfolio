@@ -34,9 +34,15 @@ An example of this from this term was my habit of getting inspiration from onlin
 
 _Our Demo Days were the best way to obtain this valuable feeback from our users._
 
-
-## Create a chain-of-events.
+## Create a chain-of-events
 A technique that I found incredibly useful in both creating and evaluating my designs was the create a chain-of-events of sorts. First, this allowed me to develop a concrete idea of _exactly_ how I wanted the application to work and be used, providing a plan from which to design from. During the user testing stage, this chain-of-events came in useful again because comparing what I thought and intended the user would do to what they did was always illuminating, it showed how people were _actually_ interpreting my design, allowing me to see exactly where my plans either went wrong or needed to be rethought.  
 
 <img src="flow.png" width="500" />  
 _I like to use lucidchart (above) for not only brainstorming, but also to generate a chain-of-events._
+
+## In Conclusion,
+This term changed the way I approach the design of any project.  
+I think, of the five points I've listed here, they all end up stemming from the same principle: **Don't Rush.**  
+My worst habit is rushing through things, both schoolwork, actual work, and in life. And I've learned from working on HCI that there are strategies you can implement that will still allow you to complete things quickly and be much more organized about it. Because when you rush, you forget about all of the important parts of the process, the parts of the process that make a desgin great.  
+Once I got into a habit of following a strategy pattern, my quality of work increased exponentially, both in HCI and in Software Engineering. Had I not learned this lesson, my team's project in Software Engineering would not have turned out nearly as simple and easy to use.  
+The principles that I've developed are ones that I won't forget. They're ones that allow me to create a fleshed out design before I even begin coding so that when I do code, my plan is laid out and I can quickly produce a quality project.
