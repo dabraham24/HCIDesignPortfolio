@@ -4,7 +4,7 @@ As a student this term, I gained much more experience in HCI than I have in any 
 The design process I developed in both classes ended up having an impact on the other, and I believe they are the perfect pairing to develop a student's HCI abiilties. The knowledge gained from HCI and the assigned articles gave me inspiration for the Hospital Pathfinding project, while the intense user testing and development life cycle of Software Engineering allowed me to go more in depth into the assignments in HCI.  
 _(PS: I talk about Software Engineering a lot in this post! Can you tell that it took over my term?)_
 
-Below are 5 key points that came to define my design process this term.  
+Below are 5 key points that came to define my design process this term. The projects that I discuss here are linked in the [portfolio](index.md) except for the Software Engineering project.
 Return to my portfolio [_here_](index.md).
 
 ## Don’t rush.
