@@ -11,6 +11,7 @@ I actually didn't come to realise it in HCI, but in Software Engineering when du
 A key example in HCI was in the Design for Others project in which we decided that the given website was already good enough so we just resized it into a mobile format instead of brainstorming a new UI that would actually be better and designed from the ground up for mobile. The lesson that I learned there I will carry over for the rest of my career as a Computer Scientist and already have, as seviddneced by my new stragtegy with the later HCI projects.
 
 <img src="AnotherWorld.png" alt="Image" style="width: 20;"/>
+<img src="AnotherWorld.png" width="200" height="200" />
 
 ## Simpler is better.
 Most of my HCI projects were relatively simple, but it's their simplicity that taught me its merits. For instance, in Software Engineering, our UI started off rather clunky and complicated. 
